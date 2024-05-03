@@ -1,0 +1,1 @@
+In this Project I have done Usablity and Functional Testing on OrangeHRM application. As test scenarios cover various user interactions, focusing on tasks such as user login, employee management, and system navigation.
