@@ -36,6 +36,9 @@ In this project, I've created a complete testing suite for OrangeHRM's EMS, focu
 
 
 𝐊𝐞𝐲 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬:
+
 1.Covered critical test scenarios from login to employee addition, search, and deletion.
+
 2.Utilized SW for automation, Java for scripting & XPath for locating web elements.
+
 3.Implemented efficient waits to synchronize test execution & employed result verification techniques.
