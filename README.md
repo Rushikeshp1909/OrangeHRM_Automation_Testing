@@ -26,6 +26,8 @@ In this project, I've created a complete testing suite for OrangeHRM's EMS, focu
 • Ensured a seamless logout process for users by locating and clicking on the logout button.
 • Properly terminated the session to maintain system integrity and provide users with a clear way to end their session.
 
+
+
 𝐋𝐨𝐜𝐚𝐭𝐨𝐫𝐬 𝐔𝐬𝐞𝐝 :
 
 𝟏.𝐍𝐚𝐦𝐞 𝐋𝐨𝐜𝐚𝐭𝐨𝐫: Used for elements like username and password fields. 
@@ -33,6 +35,7 @@ In this project, I've created a complete testing suite for OrangeHRM's EMS, focu
 𝟐.𝐗𝐏𝐚𝐭𝐡 𝐋𝐨𝐜𝐚𝐭𝐨𝐫: Used for complex element for selection and navigating. 
 
 𝟑.𝐓𝐚𝐠 𝐍𝐚𝐦𝐞 𝐋𝐨𝐜𝐚𝐭𝐨𝐫: Employed for elements like buttons, ensuring consistency & familiarity for users.
+
 
 
 𝐊𝐞𝐲 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬:
